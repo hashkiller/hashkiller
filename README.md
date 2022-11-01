@@ -2,11 +2,11 @@
 
 J'aime les ctf et coder en python !
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> plus à propos de moi
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-## **Linguagens e Ferramentas:**  
+## **Langages et outils:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>e>
@@ -16,7 +16,7 @@ J'aime les ctf et coder en python !
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-## **GitHub Estatísticas**
+## **Statistiques GitHub**
 
 <a href="https://github.com/hashkiller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashkiller&theme=dracula&hide_langs_below=1" />
