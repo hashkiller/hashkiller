@@ -4,6 +4,8 @@ J'aime les ctf et coder en python !
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> plus à propos de moi
 
+mon pseudo est hashkiller, j'ai 16 ans et j'aprend la cybersécurité, j'aime coder et je vais vous faire part de mes logiciels que je créer !
+
 ## **Langages et outils:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
