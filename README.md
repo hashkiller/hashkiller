@@ -26,5 +26,5 @@ mon pseudo est hashkiller, j'ai 16 ans et j'apprends la cybersécurité, j'aime 
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-✨ [discord][website] **|**
+####🏡 lay.rip/hashkiller
+
